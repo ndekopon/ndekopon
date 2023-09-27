@@ -6,3 +6,6 @@ JP Apex Legends player.
 tools
  - [ALGS PQ/CC stats - APAC North](https://ndekopon.github.io/algs-pqcc-stats-apacn/)
  - [meishi2_action](https://github.com/ndekopon/meishi2_action)
+ - [httpserver](https://github.com/ndekopon/httpserver)
+ - [app-audio-loopback](https://github.com/ndekopon/app-audio-loopback)
+ - [mono-to-stereo-gui](https://github.com/ndekopon/mono-to-stereo-gui)
